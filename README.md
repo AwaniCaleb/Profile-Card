@@ -2,7 +2,7 @@
 
 Welcome to my **Profile Card**—a single-page portfolio template built with [Tailwind CSS](https://tailwindcss.com/). Originally created as a template by Tailwind Toolbox, I’ve customized it to showcase my skills, projects, and interests.  
 
-![Profile Card](https://www.tailwindtoolbox.com/templates/profile-card.png)  
+![Profile Card](./img/screenshots/large.jpg)  
 
 ## About  
 
