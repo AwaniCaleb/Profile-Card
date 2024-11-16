@@ -1,40 +1,38 @@
-# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Profile-Card](https://www.tailwindtoolbox.com/templates/profile-card)
+# My Profile Card  
 
-[Profile Card](https://www.tailwindtoolbox.com/templates/profile-card) is a single page template for use as a user profile website / card created in [Tailwind CSS](https://tailwindcss.com/) by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
+Welcome to my **Profile Card**—a single-page portfolio template built with [Tailwind CSS](https://tailwindcss.com/). Originally created as a template by [Tailwind Toolbox](https://www.tailwindtoolbox.com/), I’ve customized it to showcase my skills, projects, and interests.  
 
-![Profile Card](https://www.tailwindtoolbox.com/templates/profile-card.png)
+![Profile Card](https://www.tailwindtoolbox.com/templates/profile-card.png)  
 
-## Getting Started
+## About  
 
-Choose one of the following options to get started:
-* [Download the latest release](https://github.com/tailwindtoolbox/Profile-Card/archive/master.zip)
-* Clone the repo: `git clone https://github.com/tailwindtoolbox/Profile-Card.git`
-* Fork the repo
+This profile card serves as a simple and sleek way to introduce myself:  
 
-## Using the Template
+- **Who I Am:** A Computer Science student passionate about backend development and web application design.  
+- **What I Do:** I build efficient, user-friendly applications, experiment with APIs, and implement payment systems.  
+- **My Goal:** To keep learning, growing, and collaborating with other developers.  
 
-The template is just a HTML file using a full CDN hosted Tailwind CSS file.
+## Features  
+The page includes:  
+- A responsive and modern design powered by Tailwind CSS.  
+- A customizable section for my contact links. 
+- Easy-to-edit HTML and Tailwind CSS structure for quick updates.  
 
-To get the best out of Tailwind CSS, you need to really start customising it.
-Take a look at our [setup guide](https://www.tailwindtoolbox.com/setup) to start tweaking!
+## How to Use  
+Feel free to use this as a base for your own portfolio!  
 
-## Bugs and Issues
+### Options to Get Started:  
+- Clone this repository:  
+  ```bash  
+  git clone https://github.com/awanicaleb/Profile-Card.git
+- Modify the HTML content in index.html to include your details.
+- Customize the Tailwind CSS styles to make it truly yours.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/tailwindtoolbox/Profile-Card/issues/new) here on GitHub.
+## Features  
+Working on this project helped me:
+- Understand the power of Tailwind CSS for building responsive layouts.
+- Practice creating clean and concise HTML templates.
+- Develop a lightweight, customizable portfolio page.
 
-## Creator
-
-[Tailwind Toolbox](https://www.tailwindtoolbox.com/) was created by and is maintained by **[Amrit Nagi](https://amritnagi.info/)**, Co-owner of [Astrava.Solutions](https://astrava.solutions).
-
-* https://twitter.com/tailwindtoolbox
-* https://twitter.com/amritnagi
-* https://github.com/tailwindtoolbox
-
-Tailwind Toolbox is based on the [Tailwind CSS](https://www.tailwindcss.com/) framework created by [Adam Wathan](https://twitter.com/adamwathan), [Jonathan Reinink](https://twitter.com/reinink), [David Hemphill](https://twitter.com/davidhemphill) and [Steve Schoger](https://twitter.com/steveschoger)
-
-
-
-
-## Copyright and License
-
-Copyright 2018-2019 Astrava.Solutions Ltd. Code released under the MIT license.
+## License  
+This project is open-source and available under the MIT License.
