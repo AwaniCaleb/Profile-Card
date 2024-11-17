@@ -7,7 +7,7 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>Awani Caleb / Tailwind Profile Card Template | Tailwind Toolbox</title>
 	<meta name="description" content="">
-	<meta name="keywords" content="profile portfolio>
+	<meta name="keywords" content="profile portfolio">
 	<meta name=" author" content="Awani Caleb">
 
 	<!-- Font Awesome if you need it
@@ -16,6 +16,7 @@
 	<link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css" />
 	<!--Replace with your tailwind.css once created-->
 
+	<script src="./index.js" defer></script>
 </head>
 
 <body class="font-sans antialiased text-gray-900 leading-normal tracking-wider bg-cover"
@@ -117,37 +118,6 @@
 
 	<script src="https://unpkg.com/popper.js@1/dist/umd/popper.min.js"></script>
 	<script src="https://unpkg.com/tippy.js@4"></script>
-	<script>
-		//Init tooltips
-		tippy('.link', {
-			placement: 'bottom'
-		})
-
-		//Toggle mode
-		const toggle = document.querySelector('.js-change-theme');
-		const body = document.querySelector('body');
-		const profile = document.getElementById('profile');
-
-
-		toggle.addEventListener('click', () => {
-
-			if (body.classList.contains('text-gray-900')) {
-				toggle.innerHTML = "☀️";
-				body.classList.remove('text-gray-900');
-				body.classList.add('text-gray-100');
-				profile.classList.remove('bg-white');
-				profile.classList.add('bg-gray-900');
-			} else {
-				toggle.innerHTML = "🌙";
-				body.classList.remove('text-gray-100');
-				body.classList.add('text-gray-900');
-				profile.classList.remove('bg-gray-900');
-				profile.classList.add('bg-white');
-
-			}
-		});
-
-	</script>
 
 </body>
 
