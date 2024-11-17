@@ -1,4 +1,3 @@
-import { injectSpeedInsights } from '@vercel/speed-insights';
 import { inject } from "@vercel/analytics"
 
 //Init tooltips
@@ -30,5 +29,4 @@ toggle.addEventListener('click', () => {
     }
 });
 
-injectSpeedInsights();
 inject();
