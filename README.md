@@ -1,6 +1,6 @@
 # [My Profile Card](https://ac-profile-card.vercel.app/)  
 
-Welcome to my **Profile Card**—a single-page portfolio template built with [Tailwind CSS](https://tailwindcss.com/). Originally created as a template by Tailwind Toolbox, I’ve customized it to showcase my skills, projects, and interests.  
+Welcome to my **Profile Card**—a single-page portfolio template built with [Tailwind CSS](https://tailwindcss.com/). Originally created as a template by Tailwind Toolbox, I’ve customized it to showcase my skills and interests.  
 
 ![Profile Card](./img/screenshots/large.jpg)  
 
